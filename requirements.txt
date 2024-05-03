@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+umap-learn
+pennylane
+torch
+flwr
+flwr[simulation]
+tenseal
+python-dp
+matplotlib
+seaborn
+pyarrow
+jupyter
+notebook==6.5.6
+ipykernel
+jupyter_contrib_nbextensions
+pytest
